@@ -8,7 +8,7 @@ The project combines **Dynamic Programming** and a **Greedy Algorithm** to:
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Accepts user input for multiple places
 - Each place includes:
@@ -27,7 +27,7 @@ The project combines **Dynamic Programming** and a **Greedy Algorithm** to:
 
 ---
 
-## 🧠 Algorithms Used
+##  Algorithms Used
 
 ### 1. Dynamic Programming (DP)
 - Solves a variation of the **Knapsack Problem**
